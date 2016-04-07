@@ -17,15 +17,14 @@ ul{margin:0;padding:0}
 .menu li{list-style-type:none;padding:20px 10px;font-family:'Open Sans',sans-serif;cursor:pointer;text-align:center}
 .menu li:hover{background:#e08686}
 .top-view-container{
-	background:url(../images/4aaa688e.riding-blurbw.jpg) no-repeat;
 	background-size:cover;
-	min-height:475px;position:relative;
+	min-height:275px;position:relative;
 	background-position:center;width:970px;
 	border-radius:10px;
 	margin:20px 0 0 115px;
 	border:1px solid #444
 }
-.top-view-layer{position:absolute;width:100%;min-height:475px;background:#292929;opacity:.6;border-radius:10px}
+.top-view-layer{position:absolute;width:100%;min-height:275px;background:#292929;opacity:.6;border-radius:10px}
 .top-view{position:absolute;z-index:1000}
 .top-view h1{color:#e06262;margin-left:25px;padding-top:30px;font-size:60px;font-family:'Oswald',sans-serif}
 .top-view h2{color:#f5f5f5;font-family:'Open Sans',sans-serif;margin-left:25px}
@@ -33,7 +32,7 @@ ul{margin:0;padding:0}
 .equestrian{font-style:italic;font-weight:400;font-size:20px}
 .developer{font-weight:700;font-size:27px}
 .contact img{width:25px}
-.contact{position:absolute;right:-285px;bottom:-260px;color:#f5f5f5;font-family:'Open Sans',sans-serif}
+.contact{position:absolute;right:-285px;bottom:-110px;color:#f5f5f5;font-family:'Open Sans',sans-serif}
 .contact a{color:#f5f5f5}
 .social{float:right;padding-top:10px}
 .social img:hover{background:#333;border-radius:40px}
@@ -140,8 +139,8 @@ a.github-link:hover{color:#acacac}
 	.menu img{width:20px}
 	.menu-me{font-size:13px}
 	.top-container{width:760px}
-	.top-view-layer{width:660px;min-height:450px}
-	.top-view-container{width:660px;margin-left:95px;background-position:-37px;min-height:450px}
+	.top-view-layer{width:660px;min-height:250px}
+	.top-view-container{width:660px;margin-left:95px;background-position:-37px;min-height:250px}
 	.contact{right:-202px}
 	.my-work{width:660px;margin-left:95px}
 	.my-work img{width:300px}
@@ -186,9 +185,9 @@ a.github-link:hover{color:#acacac}
 	.timeline{display:none}
 	.menu{display:none}
 	.top-view-layer{display:none}
-	.top-view-container{background:#3A3A3A;text-align:center;margin:10px auto;width:300px;min-height:240px}
+	.top-view-container{background:#3A3A3A;text-align:center;margin:10px auto;width:300px;min-height:40px}
 	.top-view h1{font-size:40px;line-height:40px} h2.developer{font-size:18px} h2.equestrian{font-size:15px}
-	.contact{right:0;bottom:-50px;font-size:12px}
+	.contact{right:0;bottom:-10px;font-size:12px}
 	.social{float:center}
 	.my-work{width:300px;margin:0 auto}
 	.my-work img{width:240px;margin-bottom:0}
