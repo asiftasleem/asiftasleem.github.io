@@ -61,7 +61,7 @@ ul{margin:0;padding:0}
 .date{font-size:10px;color:#acacac;font-style:italic}
 .line{position:absolute;height:40px;padding-left:60px;background:#555758;display:inline-block;width:880px;font-family:'Oswald',sans-serif;z-index:1}
 .line-active{position:absolute;z-index:2;height:32px;font-family:'Oswald',sans-serif;font-weight:700;padding-top:8px;text-align:center}
-.year{color:#fff;padding-top:7px;width:65px}
+.year{color:#fff;padding-top:7px;width:50px}
 .asu-width{width:155px}
 .circles-top{height:15px}
 .lines{height:55px}
